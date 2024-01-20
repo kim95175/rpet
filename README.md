@@ -1,5 +1,4 @@
-# RF-based End-to-End Multi-Person Pose Estimation using Visual Clue
-PyTorch implementation for: RF-based End-to-End Multi-Person Pose Estimation using Visual Clue
+# Learning Visual Clue for UWB-based multi-person pose estimation
 
 ## Experiments
 
