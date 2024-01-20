@@ -1,6 +1,8 @@
-# Learning Visual Clue for UWB-based multi-person pose estimation
+# PyTorch implementation for: Learning Visual Clue for UWB-based multi-person pose estimation
 
-https://www.sciencedirect.com/science/article/abs/pii/S0950705123010377
+Learning Visual Clue for UWB-based multi-person pose estimation
+Seunghyun Kim 1, Seunghwan Shin 1, Sangwon Lee, Kaewon Choi, Yusung Kim
+
 
 
 ## Acknowledgement
